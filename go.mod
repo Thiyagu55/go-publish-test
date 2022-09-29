@@ -1,4 +1,4 @@
-module google.com/sqlcommenter/gosql
+module github.com/Thiyagu55/go-publish-test
 
 go 1.19
 
