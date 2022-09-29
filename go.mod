@@ -1,4 +1,4 @@
-module github.com/Thiyagu55/go-publish-test
+module github.com/Thiyagu55/gosql
 
 go 1.19
 
